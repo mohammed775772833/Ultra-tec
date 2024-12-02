@@ -4,7 +4,7 @@ html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ultra Tec - الترا تكنولجي</title>
+    <title>رؤية للتسويق والاستشارات</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -48,14 +48,14 @@ html
 <body>
 
 <header>
-    <div class="marquee">الترا تكنولوجي ترحب بكم</div>
+    <div class="marquee">رؤية للتسويق والاستشارات</div>
 </header>
 
 <div class="content">
     <h1>مرحبًا بكم في Ultra Tec</h1>
     <p>نقدم خدمات تصميم الويب، التسويق الإلكتروني، والاستشارات.</p>
     <p>الموقع: اليمن، صنعاء، شارع الستين</p>
-    <p>أرقام التواصل: 775772833</p>
+    <p>أرقام التواصل: +967774590457</p>
 </div>
 
 <footer>
